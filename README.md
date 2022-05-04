@@ -1,4 +1,4 @@
-# Code Refactor Starter Code
+# Horiseon webpage
 
 ## Overview 
 Promotional webpage for Horiseon company. 
